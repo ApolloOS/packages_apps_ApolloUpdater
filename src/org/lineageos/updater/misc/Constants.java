@@ -42,7 +42,6 @@ public final class Constants {
     public static final String PROP_BUILD_VERSION_INCREMENTAL = "ro.build.version.incremental";
     public static final String PROP_DEVICE = "ro.apollo.device";
     public static final String PROP_NEXT_DEVICE = "ro.updater.next_device";
-    public static final String PROP_RELEASE_TYPE = "ro.apollo.build.status";
     public static final String PROP_UPDATER_ALLOW_DOWNGRADING = "apollo.updater.allow_downgrading";
     public static final String PROP_UPDATER_URI = "apollo.updater.uri";
     public static final String PROP_RECOVERY_UPDATE = "persist.sys.recovery_update";
